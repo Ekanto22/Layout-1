@@ -1,0 +1,111 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.header{
+height: 100px;
+background-color: crimson;
+color: white;
+text-align: center;
+
+}
+
+.banner{
+background-color: chocolate;
+color: white;
+text-align: center;
+height: 500px;
+
+}
+.about_image{
+    width: 50%;
+    height: 400px;
+    background-color: darkgreen;
+    text-align: center;
+    color: white;
+}
+.about_content{
+    width: 50%;
+    height: 400px;
+    background-color: cyan;
+    text-align: center;
+    color: white;
+}
+
+.about{
+    display: flex;
+}
+
+.service{
+display: flex;
+}
+
+.service_one{
+width: 33.3%;
+height: 300px;
+background-color:darkseagreen ;
+color: white;
+text-align: center;
+
+}
+.service_two{
+width: 33.3%;
+height: 300px;
+background-color: orange;
+color: white;
+text-align: center;
+
+}
+.service_three{
+width: 33.3%;
+height: 300px;
+background-color:rgb(43, 255, 0);
+color: white;
+text-align: center;
+
+}
+
+.works{
+display: flex;
+}
+
+.works_one{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(255, 72, 0);
+    color: white;
+    text-align: center;
+
+}
+.works_two{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(6, 43, 207);
+    color: white;
+    text-align: center;
+
+}
+.works_three{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(6, 135, 209);
+    color: white;
+    text-align: center;
+
+}
+.works_four{
+    width: 25%;
+    height: 300px;
+    background-color: rgb(156, 11, 223);
+    color: white;
+    text-align: center;
+
+}
+
+.fotter{
+background-color: rgb(228, 206, 7);
+text-align: center;
+height: 80px;
+color: white;
+
+}
